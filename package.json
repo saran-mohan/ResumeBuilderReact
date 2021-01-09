@@ -4,7 +4,7 @@
   "description": "Resume builder application",
   "private": true,
   "main": "dist/index.js",
-  "homepage": "https://saranyanmohan.github.io/resume-builder",
+  "homepage": "https://saran-mohan.github.io/resume-builder",
   "dependencies": {
     "@material-ui/core": "4.1.0",
     "@material-ui/icons": "4.1.0",
