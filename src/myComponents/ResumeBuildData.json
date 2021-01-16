@@ -2,7 +2,7 @@
   "data": {
     "profileName": "Saranyan Mohan",
     "currentJobTitle": "Senior Front-end Developer",
-    "expYrs": "Currently working in Happiest Minds Technologies, Bangalore as a Senior Front End Developer with an overall experience of 5 years and 6 months.",
+    "expYrs": "Currently working in Happiest Minds Technologies, Bangalore as a Senior Front End Developer with an overall experience of 5 years and 7 months.",
     "introduction": "I believe in continuous learning and improving my skills, to be part of a challenging project and enable myself to contribute more to the company and enhance my career and be successful in my endeavor.",
     "experience": {
       "projects": [
@@ -15,8 +15,8 @@
           "technologyTitle": "Gift vouchers redemption application for an e-commerce company",
           "projectDescription": "Application to be used by retail customers to redeem or claim gift vouchers and use it for their intended purpose.",
           "projectResponsibilites": [
-            "Compare various technologies that can be used for hybrid solution and prepare proof of concept for them.",
-            "Developed UI designs and wire frames into a functional web page with quality code",
+            "Evaluate various technologies that can be used for hybrid solution and prepare proof of concept for them",
+            "Developed UI designs and converted wire frames into a functional web page with quality code",
             "Built re-usable components and front-end libraries to eliminate code duplication"
           ]
         },
@@ -29,8 +29,8 @@
           "technologyTitle": "Rewards application for an e-commerce company",
           "projectDescription": "Self service portal for creating promotions that can be rendered in the form of cashback or coupon to eligible customers post transaction.",
           "projectResponsibilites": [
-            "Developed UI designs and wire frames into a functional web page with quality code",
-            "Built re-usable components and front-end libraries to eliminate code duplication",
+            "Translated wireframes into a functional web page with UI components created.",
+            "Created UI components that are stateless and reusable  ",
             "Used axios to fetch data from server to client"
           ]
         },
@@ -39,13 +39,13 @@
           "dateTo": "Apr 2020",
           "jobTitle": "Senior Front-end Developer",
           "companyName": "Happiest Minds Technologies",
-          "toolsTechnologiesUsed": "React JS, Redux, HTML5, CSS3, JavaScript, Jest, Enzyme, Cypress, Github, Storybook, Visual Studio Code",
-          "technologyTitle": "Identity Access Management and document management system for Mining company",
-          "projectDescription": "Customer Portal for WEIR Internal users",
+          "toolsTechnologiesUsed": "React JS, Redux, HTML5, CSS3, JavaScript, Jest, Enzyme, Cypress, Github, Storybook",
+          "technologyTitle": "Identity Access Management with reports for Mining company",
+          "projectDescription": "Application which helps in registration and management of partner organizations, manage users in context of app and security group, view and monitor user activity with reports.",
           "projectResponsibilites": [
-            "Developed UI designs and wire frames into a functional web page with quality code",
-            "Built re-usable components and front-end libraries to eliminate code duplication",
-            "Used axios to fetch data from server to client"
+            "Created an UI library with atomic components that can be used across the applications.",
+            "Documented the reusable components with help of Storybook and shared across team to play around it.",
+            "Implemented unit testing and integration testing for application using Jest, Enzyme and Cypress."
           ]
         },
         {
@@ -53,9 +53,9 @@
           "dateTo": "Aug 2019",
           "jobTitle": "Front-end Developer",
           "companyName": "Tata Consultancy Services",
-          "toolsTechnologiesUsed": " Angular 4, Typescript, HTML5, Bootstrap, LESS, Visual Studio Code, GIT, Jenkins, Swagger",
+          "toolsTechnologiesUsed": " Angular 4, Typescript, HTML5, LESS, Visual Studio Code, GIT, Jenkins, Swagger",
           "technologyTitle": "Account Opening application for Kuwait based bank",
-          "projectDescription": "Application to help bank employees in customer creation and account opening process for retail customers with one or more products.",
+          "projectDescription": "Application to help bank employees in customer creation and account opening process for retail customers with one or multiple products.",
           "projectResponsibilites": [
             "Design, develop and unit test front-end with Angular 4 and to consume REST API.",
             "Handled the Authentication and Authorization with User-Role management in front-end.",
@@ -68,7 +68,7 @@
           "dateTo": "Mar 2017",
           "jobTitle": "Front-end Developer",
           "companyName": "Tata Consultancy Services",
-          "toolsTechnologiesUsed": "Angular JS, HTML5, CSS3, JavaScript, Eclipse STS, SVN, Maven, Jenkins, SONAR",
+          "toolsTechnologiesUsed": "Angular JS, HTML5, CSS3, JavaScript, Eclipse STS, SVN, Jenkins, SONAR",
           "technologyTitle": "Quick quote application for US based Insurance company",
           "projectDescription": "Application to help agents’ in creating insurance quote which will be evaluated by the Underwriter for the risk involved, decide and approve the coverage and premium.",
           "projectResponsibilites": [
@@ -82,7 +82,7 @@
       {
         "dateFrom": "2011",
         "dateTo": "2015",
-        "collegeName": "Thiagarajar College Of Engineering, Madurai |  7.74 CGPA",
+        "collegeName": "Thiagarajar College Of Engineering, Madurai, Tamil Nadu |  7.74 CGPA",
         "courseName": "B.Tech Information Technology"
       }
     ],

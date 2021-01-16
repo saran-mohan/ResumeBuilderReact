@@ -13,13 +13,13 @@ $sectionLineBreakColor: #d5d6d6;
   padding-bottom: 10px;
 }
 %yearGlobal {
-  width: 15%;
+  width: 14%;
   > p {
     font-weight: bold;
   }
 }
 %divisionDetailsGlobal {
-  width: 85%;
+  width: 86%;
 }
 %mainHeadingGlobal {
   font-size: 17px;
@@ -151,9 +151,9 @@ $sectionLineBreakColor: #d5d6d6;
       }
       // left section styles
       .left-sections {
-        width: 75%;
+        width: 77%;
         display: inline-block;
-        padding-right: 1rem;
+        padding-right: 0.7rem;
         vertical-align: top;
         .experience {
           &__project {
@@ -193,10 +193,10 @@ $sectionLineBreakColor: #d5d6d6;
         }
       }
       .right-sections {
-        width: 25%;
+        width: 23%;
         display: inline-block;
         vertical-align: top;
-        padding-left: 2em;
+        padding-left: 0.7em;
         .personalInfo {
           &__heading {
             margin: 7px 0px 0px 0px !important;
