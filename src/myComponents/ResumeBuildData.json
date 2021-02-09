@@ -2,8 +2,8 @@
   "data": {
     "profileName": "Saranyan Mohan",
     "currentJobTitle": "Senior Front-end Developer",
-    "expYrs": "Currently working in Happiest Minds Technologies, Bangalore as a Senior Front End Developer with an overall experience of 5 years and 7 months.",
-    "introduction": "I believe in continuous learning and improving my skills, to be part of a challenging project and enable myself to contribute more to the company and enhance my career and be successful in my endeavor.",
+    "expYrs": "Currently working in Happiest Minds Technologies, Bangalore as a Senior Front End Developer with an overall experience of 5 years and 8 months.",
+    "introduction": "To be part of a challenging project with continuous learning and enable myself to contribute more to the company and enhance my career and be successful in my endeavor.",
     "experience": {
       "projects": [
         {
@@ -11,13 +11,13 @@
           "dateTo": "Present",
           "jobTitle": "Senior Front-end Developer",
           "companyName": "Happiest Minds Technologies",
-          "toolsTechnologiesUsed": "React JS, React Native, JSP, Spring, UI library",
+          "toolsTechnologiesUsed": "React JS, JSP, HTML5, CSS3, Javascript, Spring, IntelliJ IDEA",
           "technologyTitle": "Gift vouchers redemption application for an e-commerce company",
           "projectDescription": "Application to be used by retail customers to redeem or claim gift vouchers and use it for their intended purpose.",
           "projectResponsibilites": [
-            "Evaluate various technologies that can be used for hybrid solution and prepare proof of concept for them",
-            "Developed UI designs and converted wire frames into a functional web page with quality code",
-            "Built re-usable components and front-end libraries to eliminate code duplication"
+            "Evaluated various technologies that can be used for hybrid solution and a proof of concept for them.",
+            "Developed UI using JSP, Tag libraries, HTML, CSS, JavaScript and internal frameworks.",
+            "Implemented animation using lottiefiles to make rich look and feel."
           ]
         },
         {
@@ -29,9 +29,9 @@
           "technologyTitle": "Rewards application for an e-commerce company",
           "projectDescription": "Self service portal for creating promotions that can be rendered in the form of cashback or coupon to eligible customers post transaction.",
           "projectResponsibilites": [
-            "Translated wireframes into a functional web page with UI components created.",
-            "Created UI components that are stateless and reusable  ",
-            "Used axios to fetch data from server to client"
+            "Converted wire frames into a functional web page with quality code.",
+            "Created UI components that are pure and reusable.",
+            "Implemented custom validations that can be used across application."
           ]
         },
         {
@@ -102,10 +102,6 @@
       {
         "infoHeading": "Date of birth",
         "infoDescription": "14-Feb-1994"
-      },
-      {
-        "infoHeading": "GitHub",
-        "infoDescription": "https://github.com/saran-mohan"
       },
       {
         "infoHeading": "LinkedIn",
